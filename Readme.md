@@ -150,9 +150,10 @@ Contributions are welcome.
 git checkout -b feature/your-feature-name
 ```
 
-3. Commit your changes.
+3. Stage and commit your changes.
 
 ```bash
+git add .
 git commit -m "Add new feature"
 ```
 
